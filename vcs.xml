@@ -24,6 +24,6 @@
         </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/WebstormProjects/Viseo" />
+    <option name="cloneParentDir" value="$USER_HOME$/WebstormProjects" />
   </component>
 </application>
